@@ -1,2 +1,3 @@
 # Hello-World
-FUn
+Fun
+Apparently my life will be coding. Wohoo
